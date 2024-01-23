@@ -99,4 +99,11 @@ int main()
     return 0;
 }
 
+/*3
+1 2
+2 4
+3 6
+Output: a = 0, b = 2, Equation: y = 0 + 2x
+
+
 
